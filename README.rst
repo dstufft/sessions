@@ -19,4 +19,3 @@ involved.
 
 .. _`documentation`: https://sessions.readthedocs.org/
 .. _`issue tracker`: https://github.com/dstufft/sessions/issues
-.. _`cryptography-dev`: https://mail.python.org/mailman/listinfo/cryptography-dev
