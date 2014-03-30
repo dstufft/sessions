@@ -16,3 +16,4 @@ You can install Sessions with ``pip``:
 
     development/index
     security
+    changelog
