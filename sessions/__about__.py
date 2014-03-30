@@ -18,7 +18,7 @@ __all__ = [
     "__email__", "__license__", "__copyright__",
 ]
 
-__title__ = "Sessions"
+__title__ = "sessions"
 __summary__ = "Web framework agnostic management of sessions"
 __uri__ = "https://github.com/dstufft/sessions"
 
