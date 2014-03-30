@@ -4,9 +4,6 @@ Sessions
 .. image:: https://travis-ci.org/dstufft/sessions.svg?branch=master
     :target: https://travis-ci.org/dstufft/sessions
 
-.. image:: https://coveralls.io/repos/dstufft/sessions/badge.png?branch=master
-    :target: https://coveralls.io/r/dstufft/sessions?branch=master
-
 
 Web framework agnostic management of sessions
 
