@@ -5,7 +5,7 @@ Web framework agnostic management of sessions
 
 Installation
 ------------
-You can install Sessions`` with ``pip``:
+You can install Sessions with ``pip``:
 
 .. code-block:: console
 
